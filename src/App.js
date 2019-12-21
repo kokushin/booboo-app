@@ -36,7 +36,7 @@ function App() {
         .mediaDevices
         .getUserMedia({
           audio: true,
-          video: true,
+          video: { width: 320 },
         })
         .then(stream => {
           videoEl.current.srcObject = stream;
