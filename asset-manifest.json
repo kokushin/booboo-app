@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/booboo-app/static/css/main.f6cffc85.chunk.css",
-    "main.js": "/booboo-app/static/js/main.932ac528.chunk.js",
-    "main.js.map": "/booboo-app/static/js/main.932ac528.chunk.js.map",
+    "main.js": "/booboo-app/static/js/main.a00e6823.chunk.js",
+    "main.js.map": "/booboo-app/static/js/main.a00e6823.chunk.js.map",
     "runtime-main.js": "/booboo-app/static/js/runtime-main.85734d4e.js",
     "runtime-main.js.map": "/booboo-app/static/js/runtime-main.85734d4e.js.map",
     "static/js/2.10114b2b.chunk.js": "/booboo-app/static/js/2.10114b2b.chunk.js",
     "static/js/2.10114b2b.chunk.js.map": "/booboo-app/static/js/2.10114b2b.chunk.js.map",
     "index.html": "/booboo-app/index.html",
-    "precache-manifest.946b3322370e255732b1e54f036dccd5.js": "/booboo-app/precache-manifest.946b3322370e255732b1e54f036dccd5.js",
+    "precache-manifest.4301c34515681bbd1c3a63eb442b4a76.js": "/booboo-app/precache-manifest.4301c34515681bbd1c3a63eb442b4a76.js",
     "service-worker.js": "/booboo-app/service-worker.js",
     "static/css/main.f6cffc85.chunk.css.map": "/booboo-app/static/css/main.f6cffc85.chunk.css.map",
     "static/js/2.10114b2b.chunk.js.LICENSE": "/booboo-app/static/js/2.10114b2b.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.85734d4e.js",
     "static/js/2.10114b2b.chunk.js",
     "static/css/main.f6cffc85.chunk.css",
-    "static/js/main.932ac528.chunk.js"
+    "static/js/main.a00e6823.chunk.js"
   ]
 }

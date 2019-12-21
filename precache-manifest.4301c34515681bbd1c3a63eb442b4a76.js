@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71567aff9b5eee9e228c99255ab876e2",
+    "revision": "8db7f3ee4b3a09d7bd249250695367ff",
     "url": "/booboo-app/index.html"
   },
   {
-    "revision": "08ac4716ed43b5c93b72",
+    "revision": "69abd849f71d7e4303dc",
     "url": "/booboo-app/static/css/main.f6cffc85.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/booboo-app/static/js/2.10114b2b.chunk.js.LICENSE"
   },
   {
-    "revision": "08ac4716ed43b5c93b72",
-    "url": "/booboo-app/static/js/main.932ac528.chunk.js"
+    "revision": "69abd849f71d7e4303dc",
+    "url": "/booboo-app/static/js/main.a00e6823.chunk.js"
   },
   {
     "revision": "60d73fa24cdb2a8f95e8",
