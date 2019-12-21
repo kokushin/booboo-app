@@ -35,7 +35,7 @@ function App() {
       navigator
         .mediaDevices
         .getUserMedia({
-          audio: true,
+          audio: false,
           video: { width: 320 },
         })
         .then(stream => {
