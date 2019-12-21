@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/booboo-app/precache-manifest.eb254857879517b2baa41e6b414276f5.js"
+  "/booboo-app/precache-manifest.946b3322370e255732b1e54f036dccd5.js"
 );
 
 self.addEventListener('message', (event) => {
