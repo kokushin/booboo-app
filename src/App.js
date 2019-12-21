@@ -48,6 +48,7 @@ function App() {
     <div className="App">
       <h1>booboo-app</h1>
       <p>カメラに写った顔を認識すると音が出ます</p>
+      <p>{isCompleted ? '放屁完了' : '認識中...'}</p>
       {isCompleted && (
         <>
           <p>
