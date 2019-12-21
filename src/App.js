@@ -34,7 +34,10 @@ function App() {
 
       navigator
         .mediaDevices
-        .getUserMedia({ video: {} })
+        .getUserMedia({
+          audio: true,
+          video: true,
+        })
         .then(stream => {
           videoEl.current.srcObject = stream;
           videoEl.current.play();
