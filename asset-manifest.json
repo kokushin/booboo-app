@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kokushin/booboo-app/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/kokushin/booboo-app/static/js/main.42e837ac.chunk.js",
+    "main.js.map": "/kokushin/booboo-app/static/js/main.42e837ac.chunk.js.map",
+    "runtime-main.js": "/kokushin/booboo-app/static/js/runtime-main.2d22a99a.js",
+    "runtime-main.js.map": "/kokushin/booboo-app/static/js/runtime-main.2d22a99a.js.map",
+    "static/js/2.10114b2b.chunk.js": "/kokushin/booboo-app/static/js/2.10114b2b.chunk.js",
+    "static/js/2.10114b2b.chunk.js.map": "/kokushin/booboo-app/static/js/2.10114b2b.chunk.js.map",
+    "index.html": "/kokushin/booboo-app/index.html",
+    "precache-manifest.afbdf23c29d571ece48e9ff444e8ce7c.js": "/kokushin/booboo-app/precache-manifest.afbdf23c29d571ece48e9ff444e8ce7c.js",
+    "service-worker.js": "/kokushin/booboo-app/service-worker.js",
+    "static/css/main.f6cffc85.chunk.css.map": "/kokushin/booboo-app/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.10114b2b.chunk.js.LICENSE": "/kokushin/booboo-app/static/js/2.10114b2b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d22a99a.js",
+    "static/js/2.10114b2b.chunk.js",
+    "static/css/main.f6cffc85.chunk.css",
+    "static/js/main.42e837ac.chunk.js"
+  ]
+}
